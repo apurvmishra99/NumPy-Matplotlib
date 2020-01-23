@@ -6,6 +6,7 @@ Python 3 is required to run this. (n/b: Python 3.8 seems to break Jupyter Notebo
 
 ## How to run
 ### If you do have Jupyter Notebook
+Note: If you are using this method, make sure you also have NumPy and Matplotlib installed in your system.
 Run `jupyter notebook` and find the notebook in the directory where you cloned it to.
 
 ### If you don't have Jupyter Notebook
