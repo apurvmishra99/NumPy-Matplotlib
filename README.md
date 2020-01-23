@@ -2,7 +2,7 @@
 Jupyter notebook containing a tutorial on how to use NumPy and Matplotlib.
 
 ## Requirements
-Python 3 is required to run this. (n/b: Python 3.8 seems to break Jupyter Notebook at the moment.)
+Python 3 is required to run this. (n/b: Python 3.8 for Windows seems to break Jupyter Notebook at the moment.)
 
 ## How to run
 ### If you do have Jupyter Notebook
